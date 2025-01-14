@@ -10,10 +10,11 @@ You can also include images in this folder and reference them in the markdown. E
 ## How it works
 
 Proyecto Dummy, para probar procesos
-
+Tratamos de modificar las cosas de manera remota
 ## How to test
 
 El testing esta en proceso,
+Testing de Github
 
 ## External hardware
 
